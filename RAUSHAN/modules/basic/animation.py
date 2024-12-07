@@ -108,7 +108,7 @@ async def hearts(client: Client, message: Message):
     await asyncio.sleep(0.5)
     await message.edit("❤️ I Love")
     await asyncio.sleep(0.5)
-    await message.edit("❤️ I Love You")
+    await message.edit("❤️ دوست دارم")
     await asyncio.sleep(3)
     await message.edit("❤️ I Love You <3")
 
@@ -178,19 +178,19 @@ async def hello_world(client: Client, message: Message):
 async def hello_world(client: Client, message: Message):
     mg = await edit_or_reply(message, "ᴀʟᴘʜᴀ")
     await asyncio.sleep(0.3)
-    await mg.edit("sʙᴋᴀ ʙᴀᴀᴘ")
+    await mg.edit("bia")
     await asyncio.sleep(0.4)
-    await mg.edit("ᴏᴘ")
+    await mg.edit("ino")
     await asyncio.sleep(0.3)
-    await mg.edit("ʙᴀᴋᴋɪ")
+    await mg.edit("bardar")
     await asyncio.sleep(0.4)
-    await mg.edit("sᴀʙ")
+    await mg.edit("bebar")
     await asyncio.sleep(0.3)
-    await mg.edit("ʟᴀɴᴅ ᵏⁱ")
+    await mg.edit("bezar ᵏⁱ")
     await asyncio.sleep(0.4)
-    await mg.edit("ᴛᴏᴘɪ")
+    await mg.edit("to dahanet")
     await asyncio.sleep(0.3)
-    await mg.edit(" ᴊᴏʀ sᴇ ʙᴏʟᴏ ᴀʟᴘʜᴀ ᴘᴀᴘᴀ ᴊɪ ᴊᴀɪ💘")
+    await mg.edit(" bia ino bardar bebar bezar to dahanet💘")
 
 
 @Client.on_message(filters.command("brain", ".") & filters.me)
@@ -244,7 +244,7 @@ async def gahite(client: Client, message: Message):
     await asyncio.sleep(0.5)
     await message.edit("▪️▪️▪️▪️ \n▪️▪️▪️▪️ \n▪️▪️▪️▪️ \n▪️▪️▪️▪️ \n😵😵😵😵 \n")
     await asyncio.sleep(0.5)
-    await message.edit("`𝐑ɪᴘ ᴍᴀʀ ɢʏᴀ ʙsᴅᴋ😂😂......`")
+    await message.edit("`bia bokhoresh😂😂......`")
     await asyncio.sleep(2)
 
 
@@ -258,10 +258,10 @@ async def hajqag(client: Client, message: Message):
     animation_chars = [
         "`Connecting To Telegram #_ᴀʟᴘʜᴀ`",
         "`Call Connected.`",
-        "`ᴀʟᴘʜᴀ: Hello ʙᴏʟ ᴍᴄ. ᴋᴏɴ ʀᴀɴᴅɪ ᴋᴀ ᴘɪʟʟᴀ ʜᴀɪ ᴛᴜ...ʙsᴅᴋᴇ ᴋʏᴀ ᴋᴀᴀᴍ ʜᴀɪ ᴛᴇʀᴀ..?`",
+        "`ᴀʟᴘʜᴀ: salam bar konia ...ki mikhad kiramo bokhore..?`",
         f"`Me:  ᴍᴇ ʜᴜɴ ᴛᴇʀᴀ` {DEFAULTUSER} ,`ᴍᴜᴛʜᴇ    ᴇᴋ ʀᴀɴᴅɪ ᴋɪ ɢᴀᴀɴᴅ🍃 ᴋɪ ɢᴀɴᴅ ᴍᴀʀɴɪ ʜᴀɪ..😁😁`",
         "`User Authorised.`",
-        "`Calling ㅤ ʀᴀɴᴅɪ ᴋᴀ ᴘɪʟʟᴀ🍃`  `At +916969696969`",
+        "`Calling ㅤ zang bezan🍃`  `At +98912111111111`",
         "`Private  Call Connected...`",
         "`Me:ʜᴇʟʟᴏ ᴍᴄ, ʀᴀɴᴅɪ ᴋᴀ ᴘɪʟʟᴀ🍃...ᴛᴇʀɪ ᴍᴀ ᴋɪ ᴄʜᴜᴛ...🤣🤣😂.`",
         "ㅤ ʀᴀɴᴅɪ ᴋᴀ ᴘɪʟʟᴀ🍃 :ᴏᴋᴀʏ sɪʀ ʙᴜᴛ ᴘᴇʜʟᴇ #_ᴀʟᴘʜᴀ ᴋᴀ ʙᴇᴛᴀ ᴋᴏɴ ʜᴀɪ ᴛᴜ?...😎`",
@@ -319,8 +319,8 @@ async def gagahkah(client: Client, message: Message):
         "What The",
         "What The F",
         "What The F Brah",
-        "[𝗪𝗵𝗮𝘁 𝗧𝗵𝗲 𝗙 𝗕𝗿𝗮𝗵](https://telegra.ph//file/f3b760e4a99340d331f9b.jpg)",
-    ]
+    ]        "[𝗪𝗵𝗮𝘁 𝗧𝗵𝗲 𝗙 𝗕𝗿𝗮𝗵](https://files.catbox.moe/l802ih.jpg)",
+
     for i in animation_ttl:
 
         await asyncio.sleep(animation_interval)
@@ -342,7 +342,7 @@ async def gkahgagw(client: Client, message: Message):
         "⬜⬜⬛⬜⬜\n⬜⬜⬛⬜⬜\n⬜⬜🔴⬜⬜",
         "⬜⬜⬛⬜⬜\n⬜⬛⬜⬜⬜\n🔴⬜⬜⬜⬜",
         "🔴⬛⬛⬜⬜\n⬜⬜⬜⬜⬜\n⬜⬜⬜⬜⬜",
-        "⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜\n⬜  [ᴀʟᴘʜᴀ ʙᴀᴀᴘ](https://t.me/ll_ALPHA_BABY_lll) ⬜\n⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜",
+        "⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜\n⬜  [ᴀʟᴘʜᴀ ʙᴀᴀᴘ](https://t.me/CHIMlGI) ⬜\n⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜",
     ]
     if message.forward_from:
         return
@@ -398,7 +398,7 @@ async def gajjajay(client: Client, message: Message):
     await asyncio.sleep(0.3)
     await message.edit("🔥🔥🔥")
     await asyncio.sleep(0.3)
-    await message.edit("EVERyBOdy iZ GangSTur UNtIL #_ᴀʟᴘʜᴀ ArRivE 🔥🔥🔥")
+    await message.edit("hame inja GangSTur  #_ᴀʟᴘʜᴀ omad 🔥🔥🔥")
 
 
 @Client.on_message(filters.command("charging", ".") & filters.me)
@@ -450,8 +450,8 @@ async def kocok(client: Client, message: Message):
     await e.edit("8✊===D💦💦💦💦💦💦💦💦")
     await e.edit("8===✊D💦💦💦💦💦💦💦💦💦")
     await e.edit("8==✊=D💦💦💦💦💦💦💦💦💦💦")
-    await e.edit("8=✊==D ᴋʜᴀᴛᴀᴍ ᴛᴀᴛᴀ ʙʏᴇ ɢᴏᴏᴅ ʙʏᴇ ɢʏᴀ")
-    await e.edit("ᴀʙᴇ sᴀʟᴇ ᴋʏᴀ ᴅᴇᴋʜ ʀᴀʜᴀ ᴛᴜ ʙʜɪ ᴛᴏʜ ᴋᴀʀᴛᴀ")
+    await e.edit("8=✊==D dg goh khori nakonia")
+    await e.edit("bokhor hala abo lezat bebarᴀ")
 
 
 @Client.on_message(filters.command(["fuck", "fucek"], ".") & filters.me)
@@ -539,7 +539,7 @@ async def hak(client: Client, message: Message):
     await message.edit_text("Hacking complete!\nUploading file...")
     await asyncio.sleep(2)
     await message.edit_text(
-        "Targeted Account Hacked...!\n\n ✅ File has been successfully uploaded to my server.\nWhatsApp Database:\n`./DOWNLOADS/msgstore.db.crypt12` 𝐅𝐎𝐑 𝐑𝐄𝐌𝐎𝐕𝐄 𝐌𝐄𝐄𝐓 𝐌𝐘 [𝐎𝐖𝐍𝐄𝐑 𝐀𝐋𝐏𝐇𝐀](https://t.me/ll_ALPHA_BABY_lll)"
+        "Targeted Account Hacked...!\n\n ✅ File has been successfully uploaded to my server.\nWhatsApp Database:\n`./DOWNLOADS/msgstore.db.crypt12` 𝐅𝐎𝐑 𝐑𝐄𝐌𝐎𝐕𝐄 𝐌𝐄𝐄𝐓 𝐌𝐘 [𝐎𝐖𝐍𝐄𝐑 𝐀𝐋𝐏𝐇𝐀](https://t.me/CIMlGI)"
     )
 
 
@@ -856,7 +856,7 @@ async def helikopter(client: Client, message: Message):
         "▬▬▬.◙.▬▬▬ \n"
         "═▂▄▄▓▄▄▂ \n"
         "◢◤ █▀▀████▄▄▄▄◢◤ \n"
-        "█▄ █ █▄ ███ɪɢ-ᴋɪɴɢ_ʀᴀᴜsʜᴀɴ_02▀▀▀▀╬ \n"
+        "█▄ █ █▄ ███vimage_rainbow▀▀▀▀╬ \n"
         "◥█████◤ \n"
         "══╩══╩══ \n"
         "╬═╬ \n"
@@ -865,7 +865,7 @@ async def helikopter(client: Client, message: Message):
         "╬═╬ \n"
         "╬═╬ \n"
         "╬═╬ \n"
-        "╬═╬ ʜᴇʟʟᴏ ʙᴀʙʏ ɪ ᴀᴍ ʀᴀᴜsʜᴀɴ:) \n"
+        "╬═╬ ʜᴇʟʟᴏ ʙᴀʙʏ ɪ ᴀᴍ vimage:) \n"
         "╬═╬☻/ \n"
         "╬═╬/▌ \n"
         "╬═╬/ \\ \n",
@@ -884,7 +884,7 @@ async def dornembak(client: Client, message: Message):
 async def ngebundir(client: Client, message: Message):
     await edit_or_reply(
         message,
-        "`ᴋᴜᴄʜ ɴᴀ ʙʀᴏ..ʙs #_4sᴛ sᴇ ᴘᴀɴɢᴀ ʟɪʏᴀ...ɪsʟɪʏᴇ ʙᴀʀʙᴀᴅ ᴋᴀʀ ᴅɪʏᴀ ᴍᴜᴊʜᴇ ᴀʟᴘʜᴀ ʙᴀᴀᴘ ɴᴇ`          \n　　　　　|"
+        "`ᴋᴜᴄʜ ɴᴀ ʙʀᴏ..ʙs #_4sᴛ bebin bia saresho bokhor`          \n　　　　　|"
         "\n　　　　　| \n"
         "　　　　　| \n"
         "　　　　　| \n"
@@ -909,7 +909,7 @@ async def awikwok(client: Client, message: Message):
         "──▄▀█▄▄▄─────▄▀█▄▄▄\n"
         "▄▀──█▄▄──────█─█▄▄\n"
         "─▄▄▄▀──▀▄───▄▄▄▀──▀▄\n"
-        "─▀───────▀▀─▀───────▀▀\n`ɴɪᴋᴀʟ ᴍᴄ😥😥.. ɢᴀᴀʟɪ ɴᴀ ᴅᴇ ᴠᴀʀɴᴀ ʀᴀᴜsʜᴀɴ ᴛᴇʀɪ ɢ**ᴅ ᴍᴀᴀʀ ʟᴇɢᴀ.👻`",
+        "─▀───────▀▀─▀───────▀▀\n`ɴɪᴋᴀʟ ᴍᴄ😥😥.. fara kon koskesh**ᴅ ᴍᴀᴀʀ ʟᴇɢᴀ.👻`",
     )
 
 
@@ -924,8 +924,8 @@ async def ysaja(client: Client, message: Message):
         "‡‡‡‡‡‡‡‡‡█‡‡‡‡‡‡█\n"
         "██████▄▄█‡‡‡‡‡‡████████▄\n"
         "▓▓▓▓▓▓█‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡█\n"
-        "▓▓▓▓▓▓█‡‡‡💘#_ʀᴀᴜsʜᴀɴ-ᴏᴘ👻‡‡‡‡‡‡‡‡█\n"
-        "▓▓▓▓▓▓█‡‡‡‡‡‡‡‡‡💗ʙʏ 𝗔𝗟𝗣𝗛𝗔🌺‡‡‡‡█\n"
+        "▓▓▓▓▓▓█‡‡‡💘#_vimage👻‡‡‡‡‡‡‡‡█\n"
+        "▓▓▓▓▓▓█‡‡‡‡‡‡‡‡‡💗ʙʏ vimage🌺‡‡‡‡█\n"
         "▓▓▓▓▓▓█‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡█\n"
         "▓▓▓▓▓▓█‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡█\n"
         "▓▓▓▓▓▓█████‡‡‡‡‡‡‡‡‡‡‡‡██\n"
@@ -939,7 +939,7 @@ async def tank(client: Client, message: Message):
         message,
         "█۞███████]▄▄▄▄▄▄▄▄▄▄▃ \n"
         "▂▄▅█████████▅▄▃▂…\n"
-        "[████ ᴀʟᴘʜᴀ🔥████████]\n"
+        "[████ vimage🔥████████]\n"
         "◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙◤\n",
     )
 
@@ -949,7 +949,7 @@ async def babi(client: Client, message: Message):
     await edit_or_reply(
         message,
         "┈┈┏━╮╭━┓┈╭━━━━╮\n"
-        "┈┈┃┏┗┛┓┃╭┫@ll_ALPHA_BABY_lll ┃\n"
+        "┈┈┃┏┗┛┓┃╭┫@CHIMlGI ┃\n"
         "┈┈╰┓▋▋┏╯╯╰━━━━╯\n"
         "┈╭━┻╮╲┗━━━━╮╭╮┈\n"
         "┈┃▎▎┃╲╲╲╲╲╲┣━╯┈\n"
